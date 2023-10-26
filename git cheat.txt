@@ -1,0 +1,29 @@
+create branch and switch
+(git switch -c [branchname])
+
+check status
+git status or git status -s
+
+
+switch branch
+git switch [branchname]
+
+
+push branch to main
+git push -u origin [branchname]
+
+
+
+git merge [branchname]
+
+
+git fetch origin [branchname]
+
+
+
+
+
+get version of another branch
+--> switch to specific branch
+--> git merge [branch]
+--> git push
