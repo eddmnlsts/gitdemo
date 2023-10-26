@@ -19,10 +19,6 @@ git merge [branchname]
 
 git fetch origin [branchname]
 
-
-
-
-
 get version of another branch
 --> switch to specific branch
 --> git merge [branch]
